@@ -28,7 +28,7 @@ This can be extended to more dimensions as y = MX + c where M, X  are vectors. B
 implementation of Linear regression that just uses random generated points (x, y) X & Y to plot a line. 
 The data is used to train a model that approximates the slope m & bias c.
 
-In [code](Linear.py) m (slope) is denoted by W (for weights) and c is denoted by b (for bias)
+In [code](Linear.py) m (slope) is denoted by W (for weights) and c is denoted by b (for bias). This implementation tries to fit a polynomial, finding the parameted using Gradient Descent
 
 ### MultiVariate Regression
 
