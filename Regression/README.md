@@ -32,4 +32,4 @@ In [code](Linear.py) m (slope) is denoted by W (for weights) and c is denoted by
 
 ### MultiVariate Regression
 
-Now this can be extended to multivariate regressions. Also included is a [simple 2 variable multivariate regression.](multivariate.py)
+Now this can be extended to multivariate regressions. Also included is a [simple 2 variable multivariate regression.](multivariate.py). It trains to fit a multi-variable polynomial, finding the parameted using Gradient Descent
